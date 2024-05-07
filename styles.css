@@ -55,6 +55,7 @@ body {
 
 .body_text {
   margin-bottom: 24px;
+  color: hsl(0, 0%, 50%);
 }
 
 .author {
